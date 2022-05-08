@@ -1,5 +1,17 @@
 hello world!
+<<<<<<< HEAD
 pink
 one
 two
 three
+=======
+
+pink
+one
+two
+three
+=======
+milad umad!
+pink
+
+>>>>>>> 1673378c89cb974bcd49f7c00ec74a3a3b2aa5dc

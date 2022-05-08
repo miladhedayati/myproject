@@ -1,5 +1,6 @@
 RED
 <<<<<<< HEAD
+<<<<<<< HEAD
 green
 =======
 one
@@ -9,3 +10,10 @@ purple
 =======
 a
 >>>>>>> 23a0e3e (update a miladbranch)
+=======
+green
+one
+purple
+a
+milad added
+>>>>>>> 1673378c89cb974bcd49f7c00ec74a3a3b2aa5dc
