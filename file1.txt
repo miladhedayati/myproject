@@ -4,4 +4,8 @@ green
 =======
 one
 purple
+<<<<<<< HEAD
 >>>>>>> 4e50812 (update purple)
+=======
+a
+>>>>>>> 23a0e3e (update a miladbranch)
