@@ -1,2 +1,7 @@
 RED
+<<<<<<< HEAD
 green
+=======
+one
+purple
+>>>>>>> 4e50812 (update purple)
